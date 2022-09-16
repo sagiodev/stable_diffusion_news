@@ -5,9 +5,9 @@
 Generate news article photo with Stable Diffusion.
 
 A Jupyter notebook to 
-1. Fetch titles and links of news articles from selected news sources. 
-2. Use Stable Diffusion to generate clip art for each article using title and style modifier as prompt.
-3. Display gallery view.
+1. Fetch titles and links of news articles from the selected news source.
+2. Use Stable Diffusion to generate a photo for each article using title and style modifier of your choice.
+3. Display gallery view with clickable links.
 
 ## Supported Sites
 - Hacker News
