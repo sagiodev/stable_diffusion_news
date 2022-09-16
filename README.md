@@ -1,5 +1,5 @@
 # Stable Diffusion News
-<img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://colab.research.google.com/github/ctawong/stable_diffusion_news/blob/master/Stable_Diffusion_News.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://colab.research.google.com/github/ctawong/stable_diffusion_news/blob/master/Stable_Diffusion_News.ipynb">
 
 Generate news article photo with Stable Diffusion.
 
